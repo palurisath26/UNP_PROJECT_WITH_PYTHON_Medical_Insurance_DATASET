@@ -21,5 +21,5 @@ Plotting Graph for All Models to Compare Performance
 Preparing Model for Deployment
 Algorithms Comparison
 Summary
-Google Colab Notebook Link - 
-Project Presentation Link -
+Google Colab Notebook Link - https://colab.research.google.com/drive/1AfTWKxPKoIVEG2X4_947oOhFgH134z5Q?usp=drive_link 
+Project Presentation Link - https://drive.google.com/file/d/14BGLy7tqCKO2kVafHd9mFc1eJE0D4Ku4/view?usp=sharing
