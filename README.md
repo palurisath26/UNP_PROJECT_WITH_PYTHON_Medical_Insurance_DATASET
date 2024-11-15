@@ -1,4 +1,4 @@
-# UNP_PROJECT_WITH_PYTHON_Medical_Insurance_DATASET
+# UNP_PROJECT_WITH_PYTHON_MEDICAL_INSURANCE_DATASET
 
 
 Completed this project as a part of my Python (Machine Learning) Internship with United Network of Professionals (UNP).
